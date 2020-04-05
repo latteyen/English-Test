@@ -33,9 +33,9 @@
 ---
 
 > Question 10.
-> What is the opposite of scared?
+What is the opposite of scared?
 
-> What is the opposite of sad?
+What is the opposite of sad?
 
 > <cite>1 Point</cite>
 
