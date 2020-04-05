@@ -36,11 +36,10 @@ C.) Sorry
 > Question 5. What does “Howdy” mean?
 
 A.) Goodbye
+
 B.) See you tomorrow
+
 C.) Hello
 
 <cite>1 Point</cite>
-
-
----
 
