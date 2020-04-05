@@ -14,7 +14,7 @@ Answer each question using a full sentence.
 
 ---
 
-> Question 3. Name one sport which you # dislike ?
+> Question 3. Name one sport which you dislike?
 > <cite>1 Point</cite>
 
 ---
