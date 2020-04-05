@@ -9,7 +9,7 @@
 
 > Question 7. 
 
-(./preposition.png)
+![Preposition](//preposition.png)
 
 > Where is the bird?
 > Where is the snake?
