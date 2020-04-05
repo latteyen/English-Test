@@ -1,14 +1,46 @@
-Images can be embedded from the local filesystem!
 
-![xkcd on standards](./standards.png)
 
-(attribution: xkcd.com)
+! Question 6. Is the following phrase informal or formal:
+! “I gotta go to the kitchen”
 
 ---
 
-![Monkey](//i.imgur.com/PnbINJ6.gif)
+> Question 7. 
 
-🌟 Star it on [GitHub](//github.com/fabe/gatsby-deck),  
-or create your own with:
+(./preposition.png)
 
-    gatsby new my-slides https://github.com/fabe/gatsby-starter-deck
+> Where is the bird?
+> Where is the snake?
+> Where is the ant?
+> Where is the fish?
+> 4 Points
+
+---
+
+> Question 8. 
+> What did you do this morning?
+
+---
+
+
+> Question 9.
+> What do you plan to do tomorrow?
+
+---
+
+> Question 9.
+> What do you plan to do tomorrow?
+
+---
+
+> Question 10.
+> What is the opposite of scared?
+> What is the opposite of sad?
+
+--
+
+# THE END
+
+
+
+
