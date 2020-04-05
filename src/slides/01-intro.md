@@ -1,25 +1,44 @@
-# Gatsby Deck
+# English Test
 
-Create presentations using Gatsby & React.
-
----
-
-> Inscrutable icons litter the face of the devices even though the research
-> community has long demonstrated that people cannot remember the meaning of
-> more than a small number of icons […] Who can remember what each icon
-> means? Not me.
-> <cite>Don Norman</cite>
+Answer each question using a full sentence.
 
 ---
 
-# 🤫
+> Question 1. How old are you?
+> <cite>1 Point</cite>
 
 ---
 
-## Slides are written in Markdown!
+> Question 2. Do you have any brothers or sisters? If so how old are they?
+> <cite>1 Point</cite>
 
-Here's the source of the first slide:
+---
 
-    # Gatsby Deck
+> Question 3. Name one sport which you # dislike ?
+> <cite>1 Point</cite>
 
-    Create presentations using Gatsby & React.
+---
+
+> Question 4. What does the phrase “Check you later” mean?
+>
+> A.) See you later.
+> B.) See you in a week
+> C.) Sorry
+
+> <cite>1 Point</cite>
+
+
+---
+
+
+> Question 5. What does “Howdy” mean?
+>
+> A.) Goodbye
+> B.) See you tomorrow
+> C.) Hello
+
+<cite>1 Point</cite>
+
+
+---
+
