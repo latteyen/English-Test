@@ -11,10 +11,10 @@
 
 ![Preposition](//prep.png)
 
-> Where is the bird?
-> Where is the snake?
-> Where is the ant?
-> Where is the fish?
+Where is the bird?
+Where is the snake?
+Where is the ant?
+Where is the fish?
 > <cite>4 PointS</cite>
 
 ---
@@ -32,7 +32,8 @@
 
 ---
 
-> Question 10.
+Question 10.
+
 What is the opposite of scared?
 
 What is the opposite of sad?
