@@ -21,23 +21,23 @@ Answer each question using a full sentence.
 
 > Question 4. What does the phrase “Check you later” mean?
 
-> A.) See you later.
+A.) See you later.
 
-> B.) See you in a week
+B.) See you in a week
 
-> C.) Sorry
+C.) Sorry
 
-> <cite>1 Point</cite>
+<cite>1 Point</cite>
 
 
 ---
 
 
 > Question 5. What does “Howdy” mean?
->
-> A.) Goodbye
-> B.) See you tomorrow
-> C.) Hello
+
+A.) Goodbye
+B.) See you tomorrow
+C.) Hello
 
 <cite>1 Point</cite>
 
